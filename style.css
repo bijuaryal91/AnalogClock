@@ -32,16 +32,16 @@ body
 }
 #hourhand
 {
-    height: 20%;
+    height: 20vmin;
     width: 1.2%;    
 }
 #minhand
 {
-    height: 25%;
+    height: 25vmin;
     width: 1.2%;    
 }
 #sechand
 {
-    height: 28%;
+    height: 28vmin;
     width: 1%;
 }
